@@ -7,3 +7,6 @@
 - Doing reserach on PBFT implementation in Python (Blockchain environment) . Any guidelines or support is welcomed 
 - link to my resume : https://drive.google.com/file/d/1KIFuhuUGSEaECric8bJjBZAt2VkgQZbG/view?usp=share_link
 - Coding profile : https://auth.geeksforgeeks.org/user/lakshmisathyan0704
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=lakki0704)

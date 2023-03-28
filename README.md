@@ -9,4 +9,4 @@
 - Coding profile : https://auth.geeksforgeeks.org/user/lakshmisathyan0704
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=lakki0704)
+

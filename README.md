@@ -4,7 +4,7 @@
 
 - Interested domains: Web development , IoT , ML and data analytics
 - Programming languages : Java , Python and C
-- link to my resume : https://drive.google.com/file/d/1KIFuhuUGSEaECric8bJjBZAt2VkgQZbG/view?usp=share_link
+- link to my resume : https://drive.google.com/file/d/1YKjbkW_6y8LdaV4R14lWR-Hzn1zOi6_F/view?usp=sharing
 - Coding profile : https://auth.geeksforgeeks.org/user/lakshmisathyan0704
 
 
